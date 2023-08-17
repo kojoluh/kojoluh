@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: Beach waves and Football
 - Certification: 3x AWS Certified, 4x Azure Certified (Fundamentals related) - https://www.credly.com/users/foster-kojo-luh/badges
 - 
-![](https://komarev.com/ghpvc/?username=kojoluh)
-Languages and Tools:
+<!-- ![](https://komarev.com/ghpvc/?username=kojoluh)
+Languages and Tools: -->
   
   
