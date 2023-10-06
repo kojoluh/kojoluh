@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: luhfluh@gmail.com / https://www.linkedin.com/in/foster-kojo-luh-21785984
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Beach waves and Football
-- Certification: 3x AWS Certified, 4x Azure Certified (Fundamentals related) - https://www.credly.com/users/foster-kojo-luh/badges
+- Certifications/Qualifications: 3x AWS Certified, 1x HashiCorp Certified, 4x Azure Certified (Fundamentals related) - https://www.credly.com/users/foster-kojo-luh/badges
 - 
 <!-- ![](https://komarev.com/ghpvc/?username=kojoluh)
 Languages and Tools: -->
