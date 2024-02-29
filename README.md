@@ -1,5 +1,5 @@
 ### Hi there 👋, Im Foster Kojo Luh, aka Kojo!
-A paasionate Software Developer
+A passionate Software Developer
 
 <!--
 **kojoluh/kojoluh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
