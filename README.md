@@ -6,7 +6,7 @@ A passionate Software Developer
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m a Snr Software Engineer
+- 🔭 I’m a Software Engineer (Fullstack, backend heavy)
 - 🌱 I’m into Cloud development focusing on AWS and Azure, Microservices, SaaS, Fintech, Payments
 - 👯 I’m looking to collaborate on Cloud Development, Serverless Architecture, API development, Microservices using Go, Typescript, NodeJs, NestJs, React, SpringBoot(Java/Kotlin), Python, MySQL, MSSQL, AWS, Azure, etc.
 <!-- - 🤔 I’m looking for help with ...
