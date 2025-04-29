@@ -17,14 +17,12 @@
 
 - Certifications/Qualifications **3x AWS Certified, 1x HashiCorp Certified, 4x Azure Certified https://www.credly.com/users/foster-kojo-luh/badges**
 
-- 📫 How to reach me **luhfluh@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left" dir="auto">
-  <a href="https://www.linkedin.com/in/foster-kojo-luh/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/bd4111e83b2f1cc0d8bd771280353e4eb7e0e6408de2eb749aee4a740343cd7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" width="40px" alt="linkedin" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;"></a> 
-  <a title="luhfluh@gmail.com" href="mailto:luhfluh@gmail.com"><img align="center" src="https://camo.githubusercontent.com/c007a6b88e1320cda5e50d38d40b0843de2a2e43af668b30d66a56bbfb516777/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67" width="40px" alt="mail-me" data-canonical-src="https://cdn-icons-png.flaticon.com/128/888/888853.png" style="max-width: 100%;"></a> 
-  <a href="https://wa.me/+233542700405" rel="nofollow" data-target="animated-image.originalLink"><img align="center" width="40px" src="https://camo.githubusercontent.com/814b435d149b559d28b04877c2ee746878effc3421e869f6e69342498ec5623e/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f513849326659413737336835776d515163522f67697068792e676966" alt="whatsapp-me" data-canonical-src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-<a href="https://www.hackerrank.com/luhfluh?hr_r=1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40px" alt="whatsapp-me" style="max-width: 100%;"></a>  
+  <a href="https://www.linkedin.com/in/foster-kojo-luh/" target="_blank" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/bd4111e83b2f1cc0d8bd771280353e4eb7e0e6408de2eb749aee4a740343cd7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" width="40px" alt="linkedin" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;"></a> 
+  <a title="luhfluh@gmail.com" target="_blank" href="mailto:luhfluh@gmail.com"><img align="center" src="https://camo.githubusercontent.com/c007a6b88e1320cda5e50d38d40b0843de2a2e43af668b30d66a56bbfb516777/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67" width="40px" alt="mail-me" data-canonical-src="https://cdn-icons-png.flaticon.com/128/888/888853.png" style="max-width: 100%;"></a> 
+  <a href="https://wa.me/+233542700405" target="_blank" rel="nofollow" data-target="animated-image.originalLink"><img align="center" width="40px" src="https://camo.githubusercontent.com/814b435d149b559d28b04877c2ee746878effc3421e869f6e69342498ec5623e/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f513849326659413737336835776d515163522f67697068792e676966" alt="whatsapp-me" data-canonical-src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a href="https://www.hackerrank.com/luhfluh?hr_r=1" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40px" alt="whatsapp-me" style="max-width: 100%;"></a>  
  </p>
  <br/>
 
