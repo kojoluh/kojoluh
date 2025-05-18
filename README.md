@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Typescript, Kotlin, NestJS, SpringBoot, Africa Fin-tech**
 
-- ⚡ Fun fact **Footbal fan, Music, Beach waves, my kids and I enjoy the beach, and country side road trips**
+- ⚡ Fun fact **Football fan, Music, Beach waves, my kids and I enjoy the beach, and country side road trips**
 
 - Certifications/Qualifications **3x AWS Certified, 1x HashiCorp Certified, 4x Azure Certified https://www.credly.com/users/foster-kojo-luh/badges**
 
