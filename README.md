@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/kojoluh" target="blank"><img src="https://img.shields.io/twitter/follow/kojoluh?logo=twitter&style=for-the-badge" alt="kojoluh" /></a> </p>
 
-- 🔭 I’m currently working on **Teleco Order management**
+- 🔭 I’m currently working on **Payments, Fraud Detection, Fintech**
 
-- 👯 I’m looking to collaborate on **Scalable payments and fraud detection**
+- 👯 I’m looking to collaborate on **Scalable and Performant distributed Systems**
 
-- 💬 Ask me about **Typescript, Kotlin, NestJS, SpringBoot, Africa Fin-tech**
+- 💬 Ask me about **Typescript, Kotlin, NestJS, SpringBoot, Fin-tech, Scalable Teleco Order Mgt**
 
 - ⚡ Fun fact **Football fan, Music, Beach waves, my kids and I enjoy the beach, and country side road trips**
 
