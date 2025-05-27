@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kojoluh" target="blank"><img src="https://img.shields.io/twitter/follow/kojoluh?logo=twitter&style=for-the-badge" alt="kojoluh" /></a> </p>
 
-- 🔭 I’m currently working on **Payments, Fraud Detection, Fintech**
+- 🔭 I’m currently working on **Payments, Fraud detection, Fintech**
 
-- 👯 I’m looking to collaborate on **Scalable and Performant distributed Systems**
+- 👯 I’m looking to collaborate on **Scalable and performant distributed systems**
 
 - 💬 Ask me about **Typescript, Kotlin, NestJS, SpringBoot, Fin-tech, Scalable Teleco Order Mgt**
 
